@@ -2,7 +2,7 @@ import React from "react";
 import './navbar.css';
 import logo from '../Navbar/Clean Modern Programmer Developer Web Designer Logo(2).png';
 import{ Link } from 'react-scroll';
-import contactImg from '../Navbar/contacts.png'
+import contactImg from '../../assets/contact.png'
  
 const Navbar = () => {
     return (
